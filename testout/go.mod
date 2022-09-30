@@ -1,4 +1,4 @@
-module seeda
+module testout
 
 go 1.18
 
